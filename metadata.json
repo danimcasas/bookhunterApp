@@ -1,0 +1,7 @@
+{
+  "name": "BookHunter",
+  "description": "BookHunter: Una aplicación para organizar, guardar, ordenar y controlar una colección personal de libros. Los usuarios pueden añadir, editar, eliminar, buscar y ordenar sus libros.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
